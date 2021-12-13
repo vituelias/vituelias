@@ -16,6 +16,10 @@ I’m currently reading: 48 Laws of Power and I don't know if i will finish it h
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-elias-365438162/)]( https://www.linkedin.com/in/vitor-elias-365438162/)
 
+##Languages and Tools:
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 
 <code><img height = "20" src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code> 
