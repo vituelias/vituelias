@@ -9,7 +9,7 @@
 <div>
 <img height = "150em" src ="https://github-readme-stats.vercel.app/api?username=vituelias&show_icons=true&theme=tokyonight&layout=wakatime"/> 
   
-<img height = "150em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vituelias&show_icons=true&theme=radical&layout=compact)](https://github.com/vituelias/github-readme-stats"/>
+<img height = "150em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vituelias&show_icons=true&theme=compact&layout=compact)](https://github.com/vituelias/github-readme-stats"/>
  </div>
  
 ## About me
