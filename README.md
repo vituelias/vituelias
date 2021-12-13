@@ -4,7 +4,7 @@
  
 
 <p>I'm graduating Information's System</p>
-<p>I’m from Brasil.Yes with 's'</p>
+<p>I’m from Brasil.</p>
 <p>I’m currently reading: 48 Laws of Power and I don't know if i will finish it hehe</p>
 <p>2022 Goals: Close 10 contracts in January and be better than now</p>
 
