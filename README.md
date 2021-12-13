@@ -1,12 +1,10 @@
 # vituelias
 ## I'm Vitor Elias!
 
- 
-
-<p>I'm graduating Information's System</p>
-<p>I’m from Brasil.</p>
-<p>I’m currently reading: 48 Laws of Power and I don't know if i will finish it hehe</p>
-<p>2022 Goals: Close 10 contracts in January and be better than now</p>
+I'm graduating Information's System
+I’m from Brasil.
+I’m currently reading: 48 Laws of Power and I don't know if i will finish it hehe<
+2022 Goals: Close 10 contracts in January and be better than now
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vituelias&show_icons=true&theme=radical&layout=wakatime)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituelias&show_icons=true&theme=radical&layout=compact)](https://github.com/vituelias/github-readme-stats)
 ## About me
