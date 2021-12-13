@@ -18,15 +18,15 @@
 
 <code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></code> 
-<code><img height = "20" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code> 
+<code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></code> 
-<code><img height = "20" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code> 
-<code><img height = "20" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></code> 
-<code><img height = "20" src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code> 
+<code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></code> 
+<code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code> 
+<code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></code> 
-<code><img height = "20" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code> 
-<code><img height = "20" src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code> 
+<code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code> 
+<code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code> 
 
 
 - Thanks for visiting.
