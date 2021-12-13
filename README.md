@@ -33,7 +33,8 @@
 <code><img height = "20" src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></code> </P>
 
-
+## Contato
+[Instagram Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/vituelias)]( https://www.instagram.com/vituelias)
 
 - Thanks for visiting.
 
