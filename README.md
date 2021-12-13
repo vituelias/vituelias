@@ -9,7 +9,7 @@ I’m currently reading: 48 Laws of Power and I don't know if i will finish it h
 2022 Goals: Close 10 contracts in January
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vituelias&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituelias&show_icons=true&theme=radical)](https://github.com/vituelias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituelias&show_icons=true&theme=radical&layout=compact)](https://github.com/vituelias/github-readme-stats)
 
 
 
