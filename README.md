@@ -34,7 +34,7 @@
 <code><img height = "20" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></code> </P>
 
 ## Contato
-<a href = "instagram.com/vituelias"<code><img height = "20" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></code></a>
+<code><img height = "20" src =<a href = "instagram.com/vituelias"> "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></code></a>
 <code><img height = "20" src = "ttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</code>
 
 
