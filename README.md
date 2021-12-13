@@ -3,10 +3,10 @@
 
  
 
-I'm graduating Information's System
-I’m from Brazil.
-I’m currently reading: 48 Laws of Power and I don't know if i will finish it hehe .
-2022 Goals: Close 10 contracts in January
+<br>I'm graduating Information's System</br>
+<br>I’m from Brazil.</br>
+<br>I’m currently reading: 48 Laws of Power and I don't know if i will finish it hehe</br>
+<br>2022 Goals: Close 10 contracts in January</br>
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vituelias&show_icons=true&theme=radical&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituelias&show_icons=true&theme=radical&layout=compact)](https://github.com/vituelias/github-readme-stats) 
 
