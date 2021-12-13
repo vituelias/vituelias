@@ -10,7 +10,9 @@ I’m currently reading: 48 Laws of Power and I don't know if i will finish it h
 
 ##Languages and Tools:
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vituelias&show_icons=true&theme=radical)
-[![Vitor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?vituelias=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituelias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
