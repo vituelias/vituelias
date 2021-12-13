@@ -22,12 +22,13 @@
 <code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code> 
 <code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code> 
 <code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code> 
+<p>
 ##Algumas outras Skills
 <code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></code> 
-<code><img height = "20" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></code> 
+<code><img height = "20" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></code> </P>
 
 
 - Thanks for visiting.
