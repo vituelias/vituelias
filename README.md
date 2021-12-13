@@ -27,7 +27,7 @@
   
 ## Algumas outras Skills
   
-<code><img height = "20" src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code> 
+<code><a href="instagram.com/vituelias/"><img height = "20" src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code></a>
 <code><img height = "20" src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></code> 
