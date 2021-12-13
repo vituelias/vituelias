@@ -34,7 +34,7 @@
 <code><img height = "20" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></code> </P>
 
 ## Contato
-[Instagram Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/vituelias)]( https://www.instagram.com/vituelias)
+[![Instagram Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/vituelias/)](https://www.instagram.com/vituelias)
 
 - Thanks for visiting.
 
