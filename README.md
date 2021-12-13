@@ -4,9 +4,10 @@
 <p>I'm graduating Information's System
 <p>I’m from Brasil.
 <p>I’m currently reading: 48 Laws of Power and I don't know if i will finish it hehe
-<p>2022 Goals: Close 10 contracts in January and be better than now
+<p>2022 Goals: Close 10 contracts in January and be better than now</p>
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vituelias&show_icons=true&theme=tokyonight&layout=wakatime)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituelias&show_icons=true&theme=radical&layout=compact)](https://github.com/vituelias/github-readme-stats)
+<div>
+<img height = "150em" src ="https://github-readme-stats.vercel.app/api?username=vituelias&show_icons=true&theme=tokyonight&layout=wakatime"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituelias&show_icons=true&theme=radical&layout=compact)](https://github.com/vituelias/github-readme-stats)
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vituelias)](https://github.com/vituelias)
