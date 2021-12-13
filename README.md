@@ -25,7 +25,7 @@
 <code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code> 
 <p>
   
-## Algumas outras Skills
+## Other Skills
   
 <code><img height = "20" src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
 <code><img height = "20" src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></code> 
@@ -33,7 +33,7 @@
 <code><img height = "20" src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></code> </P>
 
-## Me segue lá
+## Dont Be shy you just have to follow me
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vesomarketing/)](https://www.instagram.com/vesomarketing)
 
 - Thanks for visiting.
