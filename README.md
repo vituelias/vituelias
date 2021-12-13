@@ -1,7 +1,7 @@
 # vituelias
 ## I'm Vitor Elias!
 
-I'm graduating Information's System
+I'm graduating Information's System /n
 I’m from Brasil.
 I’m currently reading: 48 Laws of Power and I don't know if i will finish it hehe<
 2022 Goals: Close 10 contracts in January and be better than now
