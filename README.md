@@ -23,7 +23,9 @@
 <code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code> 
 <code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code> 
 <p>
+  
 ##Algumas outras Skills
+  
 <code><img height = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></code> 
 <code><img height = "20" src = "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></code> 
