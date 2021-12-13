@@ -8,7 +8,6 @@ I’m from Brazil.
 I’m currently reading: 48 Laws of Power and I don't know if i will finish it hehe .
 2022 Goals: Close 10 contracts in January
 
-##Languages and Tools:
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vituelias&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituelias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
